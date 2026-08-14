@@ -1,0 +1,3 @@
+# Agentic RAG
+
+**Agentic RAG (Retrieval-Augmented Generation)** is an AI project that combines intelligent agents with RAG technology to retrieve relevant information and generate accurate, context-aware responses. The system can autonomously analyze queries, search available knowledge sources, retrieve useful information, and use it to produce reliable answers. It reduces hallucinations by grounding responses in relevant data while enabling agents to make decisions and perform multi-step tasks. The project demonstrates how AI agents and knowledge retrieval can work together to build smarter, more adaptive, and efficient AI applications.
